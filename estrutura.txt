@@ -1,0 +1,14 @@
+rag_project/
+  manage.py
+  core/
+    __init__.py
+    settings.py
+    urls.py
+    celery.py
+  ragapp/
+    __init__.py
+    views.py
+    urls.py
+    rag_core.py
+    agent.py
+  requirements.txt
